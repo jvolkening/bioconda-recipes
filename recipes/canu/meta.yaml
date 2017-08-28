@@ -1,5 +1,5 @@
 {% set name = "canu" %}
-{% set version = "1.5" %}
+{% set version = "1.6" %}
 {% set md5 = "65df275baa28ecf11b15dfd7343361e3" %}
 
 package:
